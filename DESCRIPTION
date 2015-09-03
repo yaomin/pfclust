@@ -1,0 +1,9 @@
+Package: pfclust
+Version: 0.1
+Date: 2007-9-1 
+Title: Profile cluster analysis
+Author: Yaomin Xu <yaomin@case.edu>  
+Maintainer: Yaomin Xu <yaomin@case.edu> 
+Depends: R (>= 2.5.1)
+Description: The package contains functions of the methods developed in PfCluster by Yaomin Xu 
+License: GPL version 2 or newer 
